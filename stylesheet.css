@@ -1,0 +1,44 @@
+@import url("fontfaces.css");
+
+body {
+	background-color: #a85f05;
+}
+
+#thetitle {
+	font-family: 'curse_casualregular';
+	font-size: 50px;
+	text-align: center;
+	
+}
+
+p {
+	font-family: 'fot-seurat_prob';
+	font-size: 23px;
+}
+
+h2 {
+	font-family: 'fot-rodin_prob';
+	color: black;
+}
+
+a:link {
+ 	color: black;
+ }
+
+a:visited {
+ 	color: orange;
+}
+
+a:hover {
+	color: brown;
+	text-decoration: bold;
+}
+
+a:active {
+	color: yellow;
+	text-decoration: underline;
+}
+
+li {
+	font-family: 'fot-seurat_prob';
+}
