@@ -1,0 +1,44 @@
+@import url("fontfaces.css");
+
+body {
+	background-image: linear-gradient(to right, #e8a15a, #ebc5a0);
+}
+
+#title {
+	font-family: 'curse_casualregular';
+	font-size: 35px;
+	text-align: center;
+	
+}
+
+#heading {
+	font-family: 'curse_casualregular';
+	text-align: center;
+}
+
+p {
+	font-family: 'fot-seurat_prom';
+	font-size: 23px;
+}
+
+a:link {
+ 	color: #50a8ba;
+ }
+
+a:visited {
+ 	color: purple;
+}
+
+a:hover {
+	color: brown;
+	text-decoration: bold;
+}
+
+a:active {
+	color: yellow;
+	text-decoration: underline;
+}
+
+li {
+	font-family: 'fot-seurat_prom';
+}

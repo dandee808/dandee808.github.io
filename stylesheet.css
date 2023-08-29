@@ -1,7 +1,7 @@
 @import url("fontfaces.css");
 
 body {
-	background-color: #a85f05;
+	background-image: linear-gradient(to right, #e8a15a, #ebc5a0);
 }
 
 #thetitle {
@@ -11,22 +11,27 @@ body {
 	
 }
 
+#newthing {
+	text-align: center;
+}
+
 p {
-	font-family: 'fot-seurat_prob';
+	font-family: 'fot-seurat_prom';
 	font-size: 23px;
 }
 
 h2 {
-	font-family: 'fot-rodin_prob';
+	font-family: 'fot-rodin_proeb';
 	color: black;
 }
 
+
 a:link {
- 	color: black;
+ 	color: #50a8ba;
  }
 
 a:visited {
- 	color: orange;
+ 	color: purple;
 }
 
 a:hover {
@@ -40,5 +45,5 @@ a:active {
 }
 
 li {
-	font-family: 'fot-seurat_prob';
+	font-family: 'fot-seurat_prom';
 }
